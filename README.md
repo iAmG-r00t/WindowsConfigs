@@ -10,6 +10,8 @@
 
 ➡ `ctrl + shift + p` : basically works like vscode command palette that contains each and every other commands.
 
+![image](https://user-images.githubusercontent.com/29776892/106402734-fe772000-643b-11eb-874b-59573a736271.png)
+
 ## Images
 
 ### Windows Terminal
