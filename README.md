@@ -2,6 +2,9 @@
 ⏭ Config Files for Windows 10 💻 🖤 ⏮
 
 ➡ [Windows Terminal Configs](./configs/settings.json)
+
+&nbsp;
+
 ➡ [Windows Terminal Icons](./TerminalIcons)
 
 ## Hidden Keyboard Keybinding
